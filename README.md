@@ -1,2 +1,5 @@
 # Rices
-My Rices
+
+1. Catppuccin Mocha
+   
+   * Waybar  
